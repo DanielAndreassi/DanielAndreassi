@@ -1,5 +1,7 @@
 # 💫 About Me:
-Atualmente, atuo como Analista de Sistemas na DataNorte Sistemas, desempenhando um papel multidisciplinar que une análise técnica e desenvolvimento. Minhas responsabilidades incluem engenharia de requisitos, testes (QA), code reviews e resolução de problemas complexos em parceria com o time de desenvolvimento.<br><br>No dia a dia, colaboro na manutenção de projetos em Delphi e PHP, enquanto curso o 7º termo do Bacharelado em Sistemas de Informação na Unoeste. Paralelamente à graduação e ao trabalho, dedico meus estudos ao aprimoramento no ecossistema Java, foco principal da minha carreira futura.
+Currently, I work as a Systems Analyst at DataNorte Sistemas, playing a multidisciplinary role that bridges technical analysis and development. My responsibilities include requirements engineering, QA testing, code reviews, and solving complex problems in partnership with the development team.
+
+On a daily basis, I collaborate on the maintenance of Delphi and PHP projects while attending the 7th term of my Bachelor's in Information Systems at Unoeste. Parallel to my degree and work, I dedicate my studies to mastering the Java ecosystem, which is the main focus of my future career.
 
 
 ## 🌐 Socials:
